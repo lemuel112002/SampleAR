@@ -98,7 +98,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         WebView.setWebContentsDebuggingEnabled(true)
-        webView.loadUrl("https://flowcode.com/p/ef1ZY3uDNa")
+        webView.loadUrl("https://flowcode.com/p/ef1RUxdc3e")
     }
 
 }
